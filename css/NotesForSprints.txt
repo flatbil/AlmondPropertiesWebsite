@@ -1,4 +1,0 @@
-Ideas / Thoughts for future Sprints:
-
-Sprint 15: Ability to create a virtual rocket launch with "What if" scenarios.
-
